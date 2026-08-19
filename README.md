@@ -1,40 +1,38 @@
-# Beginner Automation Scripts
+# AutomationScripts
 
-This repository documents my journey of learning automation and scripting for IT Support.
+A collection of practical scripts and automation projects created while learning **PowerShell, Python, Windows administration, and IT automation**.
 
-The projects are built progressively, starting with simple scripts and advancing to more complex automation tools. Along the way, I focus on understanding the concepts behind each script rather than simply copying code.
+The purpose of this repository is to build hands-on experience by creating useful tools for common IT support and system administration tasks.
 
-## Objectives
+## 🎯 Goals
 
-- Learn PowerShell, Python, SQL, Batch, and Bash.
-- Develop practical automation skills for IT Support.
-- Build reusable tools for system administration and troubleshooting.
-- Understand scripting concepts such as variables, functions, loops, objects, error handling, and APIs.
-- Create a professional portfolio of automation projects.
+* Learn and improve scripting skills
+* Automate repetitive IT tasks
+* Develop practical Windows administration skills
+* Explore PowerShell and Python
+* Build reusable tools and utilities
+* Document and improve projects over time
 
-## Project Roadmap
+## 🛠️ Technologies
 
-The projects are organized from beginner to advanced and include topics such as:
+* **PowerShell** — Windows administration and automation
+* **Python** — Automation and data processing
+* **Git & GitHub** — Version control and project management
 
-- System information
-- Disk, CPU, and memory monitoring
-- Network troubleshooting
-- File and folder management
-- Windows administration
-- Active Directory automation
-- Microsoft 365 and Entra ID automation
-- Reporting and dashboards
-- GUI applications
-- Enterprise IT support tools
+## 💻 Development
 
-## Technologies
+Projects may be developed using **GitHub Codespaces**, VS Code, or a local environment.
 
-- PowerShell
-- Python
-- SQL
-- Batch
-- Bash
+Some scripts require a Windows system to run and test because they interact with Windows-specific components and system resources.
 
-## Goal
+## ⚠️ Disclaimer
 
-By the end of this learning journey, this repository will contain a collection of professional automation scripts and applications that can be used in real-world IT Support environments.
+These projects are primarily for **learning and experimentation**. Always review a script before running it, particularly scripts that modify system settings, files, services, or security configurations.
+
+## 🚧 Status
+
+This is an **ongoing learning and portfolio project**. New scripts, improvements, and experiments will be added over time.
+
+---
+
+**Learn → Build → Test → Automate → Improve**
